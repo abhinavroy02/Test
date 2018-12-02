@@ -1,3 +1,9 @@
+"""
+This script is about using the Plivo API to
+send a sms from one number to another and
+check whether the sms is charged correctly or not
+"""
+
 import requests
 from requests.auth import HTTPBasicAuth
 
